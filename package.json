@@ -1,7 +1,7 @@
 {
-  "name": "camunda-bpmn-moddle",
+  "name": "flowable-bpmn-moddle",
   "version": "4.4.0",
-  "description": "Camunda moddle extensions for BPMN 2.0",
+  "description": "Flowable moddle extensions for BPMN 2.0",
   "scripts": {
     "all": "run-s lint test",
     "lint": "eslint .",
