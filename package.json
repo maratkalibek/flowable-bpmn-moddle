@@ -43,6 +43,6 @@
     "xsd-schema-validator": "^0.5.0"
   },
   "dependencies": {
-    "min-dash": "^3.0.0"
+    "min-dash": "^3.8.1"
   }
 }
